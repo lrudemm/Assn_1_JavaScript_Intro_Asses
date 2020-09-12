@@ -14,3 +14,4 @@ if (num < 21) {
 } else {
   console.log("I am just barely able to drink legally in the states.");
 }
+console.log("This is a very challenging class and I am having fun learning to code!");
