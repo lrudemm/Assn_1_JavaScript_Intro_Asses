@@ -1,3 +1,4 @@
+// First add variables for first name, last name and age//
 var firstName = "Larry";
 var lastName = "Rud";
 var age = "47";
