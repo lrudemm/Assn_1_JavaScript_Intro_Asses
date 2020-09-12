@@ -2,8 +2,9 @@
 var firstName = "Larry";
 var lastName = "Rud";
 var age = "47";
+//fire an alert with words "My name is FULL NAME HERE"//
 console.log("My name is "+ firstName + ' ' + lastName);
-
+//fire an alert with the words "I am AGE HERE"//
 console.log("I am " + age + " years old.");
 
 if (num < 21) {
