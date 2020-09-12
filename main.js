@@ -1,9 +1,9 @@
 var firstName = "Larry";
 var lastName = "Rud";
 var age = "47";
-console.log()
+console.log("My name is "+ firstName + ' ' + lastName);
 
-let num = Number(prompt("What is your age?"));
+console.log("I am " + age + " years old.");
 
 if (num < 21) {
   console.log("It is illegal for me to drink in the states.");
